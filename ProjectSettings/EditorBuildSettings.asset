@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OpeningScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/OptionScene.unity
+    guid: fea50213d2785604f9168f2b75e9dbc1
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 1c5bfea2503db914a83bfc06a6094cf1
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: cb7058679a5097046ae9c6f2704bb276
+  - enabled: 1
+    path: Assets/Scenes/GameOverPlatformer.unity
+    guid: 791c46dba31941e478320095eaf79343
+  - enabled: 1
+    path: Assets/Scenes/rpgArena.unity
+    guid: f93492368877cab4db519c20485c0d91
+  - enabled: 0
+    path: Assets/Scenes/PlatformGO.unity
+    guid: 7f341a9471a9d1f42a63cef7c3a68cfe
+  - enabled: 1
+    path: Assets/Scenes/Ending/SampleScene1.unity
+    guid: 3a87200f6ed4c3348bbc96f15f113aae
+  - enabled: 1
+    path: Assets/Scenes/Ending/OlumSahnesi.unity
+    guid: bd1759b006e680e41a271aa10e5e4f68
+  - enabled: 1
+    path: Assets/Scenes/Ending/MideSahnesi.unity
+    guid: baf77e700fc94c647b44f639275fe0bb
+  - enabled: 1
+    path: Assets/Scenes/Ending/KotuSahnesi.unity
+    guid: 5c9e108d334f52245bcf5d4506f92e9e
+  - enabled: 1
+    path: Assets/Scenes/Ending/IyiSahnesi.unity
+    guid: 23d3645a80544a046abba00e4a353346
+  - enabled: 1
+    path: Assets/Scenes/Ending/EfsaneShnesi.unity
+    guid: 923eb0f114114784e8a6570ec500859a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: c427e3438e7b32d4fab2c58ee215eac0
+  - enabled: 1
+    path: Assets/Scenes/GameOverCooking.unity
+    guid: aa9723c9f10940441970ed1ee6711439
+  - enabled: 1
+    path: Assets/Scenes/Ending/YanmaSahnesi.unity
+    guid: 2ef5387b78fdff54b8c9df2cd6974ae1
+  - enabled: 1
+    path: Assets/Scenes/Ending/PerfectEnding.unity
+    guid: 9e37fd71d3e4686409ec62b6a763eb24
+  - enabled: 1
+    path: Assets/Scenes/GameOverArena.unity
+    guid: 799dff7e83025ba4594e9740837315dd
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
